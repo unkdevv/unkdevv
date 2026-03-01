@@ -13,6 +13,9 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unkdevv.unkdevv&left_color=black&right_color=limegreen&left_text=Visitors%20on%20profile"  />
+</div>
 
 ###
 
@@ -113,10 +116,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=unkdevv.unkdevv&right_color=red"  />
-</div>
-
-###
